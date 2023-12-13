@@ -16,9 +16,6 @@ The Diwali Sales project is aimed at organizing and managing sales data during t
 3. Use the generated insights for marketing strategies, inventory management.
 
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
-For any questions or feedback, feel free to contact us at [email@example.com](mailto:email@example.com).
+For any questions or feedback, feel free to contact us at (mailto:emailfortemp@gmail.com).
 
